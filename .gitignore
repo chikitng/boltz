@@ -1,0 +1,28 @@
+# Pixi environment
+.pixi/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Python virtual environments
+.venv/
+venv/
+
+# Boltz prediction outputs
+boltz_results_input/
+boltz_results/
+predictions/
+
+# Downloaded model files
+*.ckpt
+*.pt
+*.pth
+
+# Logs
+*.log
+
+# Secrets
+.env
+.env.*
